@@ -6,7 +6,5 @@ Difference = num1 - num2
 print("Subtraction:", Difference)
 Product = num1 * num2
 print("Multiplication:", Product)
-Divide = num1 / num2
-print("Division:", Divide)
-
-
+Division = num1 / num2
+print("Division:", Division)
